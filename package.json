@@ -1,0 +1,15 @@
+{
+  "name": "container-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aplicacaoWeb.js",
+  "scripts": {
+    "start": "node aplicacaoWeb.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
